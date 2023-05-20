@@ -1,4 +1,4 @@
-# Crossroad_traffic_lights_mcu8051![Crossroad_traffic_lights]
+# Crossroad_traffic_lights_mcu8051!
 The circuit was built using Proteus v8.11. The code is written in Assembly language.The crossroad of 4 traffic lights is synchronized two by two.
 
 
